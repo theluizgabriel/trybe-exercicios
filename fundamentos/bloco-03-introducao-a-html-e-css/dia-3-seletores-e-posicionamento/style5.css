@@ -1,0 +1,47 @@
+.li-impar {
+    text-transform: uppercase;
+}
+
+.li-par {
+    color: green;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+li {
+    font-size: 20px;
+}
+
+li.li-impar{
+    font-weight: bold;
+}
+
+li.li-par{
+    font-weight: bold;
+}
+
+.blue-language {
+    color: blue;
+}
+
+a.stackof:hover {
+    color: orange;
+}
+
+a.w3s:hover {
+    color: green;
+}
+
+a.mozilla:hover {
+    color: black;
+}
+
+a.devdocs:hover {
+    color: yellow;
+}
+
+a.trybe:hover {
+    color: green;
+}
